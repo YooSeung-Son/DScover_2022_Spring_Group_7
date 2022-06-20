@@ -25,7 +25,7 @@ linear regression.ipynb
 20XX년도_투수_데이터.csv
 20XX년도_팀타자_데이터.csv
 20XX년도_팀투수_데이터.csv
-2022년_정규시즌_일정_크롤링.csv
+2022년_정규시즌_일정_크롤링_0606_수정.csv
 FA_TRADE_2022.csv
 
 결과 ppt:
