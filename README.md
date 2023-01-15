@@ -21,11 +21,11 @@ linear regression.ipynb
 
 크롤링 코드(Crawling codes): KBO_Crawling.ipynb
 크롤링 결과 csv 파일(Crawling results file):
-20XX년도_타자_데이터.csv
-20XX년도_투수_데이터.csv
-20XX년도_팀타자_데이터.csv
-20XX년도_팀투수_데이터.csv
-2022년_정규시즌_일정_크롤링_0606_수정.csv
+20XX년도_타자_데이터.csv (Hitter data)
+20XX년도_투수_데이터.csv (Pitcher data)
+20XX년도_팀타자_데이터.csv (Team hitter)
+20XX년도_팀투수_데이터.csv (Team pithcher)
+2022년_정규시즌_일정_크롤링_0606_수정.csv (2022 official schedules crawling)
 FA_TRADE_2022.csv
 
 결과 ppt: (Results for presentation)
